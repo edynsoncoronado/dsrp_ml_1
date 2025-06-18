@@ -1,10 +1,22 @@
-# dsrp_ml_1
+# Proyecto 1
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
 Entender conceptos de Machine Learning, ecosistema y tecnologías, además de algoritmos clásicos.
+
+## Problema
+
+## Diagrama de flujo
+
+## Dataset
+
+## Model Card
+
+## Resultados
+
+## Conclusiones
 
 ## Project Organization
 
@@ -68,7 +80,6 @@ Entender conceptos de Machine Learning, ecosistema y tecnologías, además de al
 - Módulo 2: Algoritmos de ML - Supervisados y no supervisados
 - Módulo 3: Configuración Entorno en la nube
 - Módulo 4: Buenas prácticas de desarrollo, GitHub
-
 
 ------
 © 2025 Data Science Research Perú. Todos los derechos reservados
