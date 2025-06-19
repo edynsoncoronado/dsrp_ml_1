@@ -22,6 +22,7 @@ dependencies = [
     "mkdocs",
     "numpy>=2.3.0",
     "pip",
+    "plotly>=6.1.2",
     "python-dotenv",
     "ruff",
     "scikit-learn>=1.7.0",
